@@ -31,6 +31,8 @@ and so on.
 
 * percision medicine- personalized, problematic, and promising, new engl
 * dynamic treatment regimes, statistical methods for precision medicine
+* “Performance Guarantees for Individualized
+Treatment Rules,” The Annals of Statistics
 
 
 
