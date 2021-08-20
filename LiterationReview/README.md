@@ -4,6 +4,7 @@
 ### Definition of Percision Medicine 
 
 * Definition and application of precision medicine
+*
 
 According to the definition promulgated by the National Institute
 of Health (NIH), precision medicine refers to a new treatment
