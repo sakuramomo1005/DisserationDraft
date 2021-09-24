@@ -1,16 +1,37 @@
 
 
-To detect differences in the mean functions
-of two independent samples of curves, Ramsay & Silverman (2005) introduced a
-pointwise t-test, Zhang et al. (2010) presented an L2􀀀norm based test, Horvath
-et al. (2013) proposed a test based on the sample means of the curves, and Staicu
-30 et al. (2014) developed a pseudo likelihood ratio test. Extension to k independent
-samples of curves was discussed in Cuevas et al. (2004), Estevez-Perez &
-Vilar (2008), and Laukaitis & Rackauskas (2005), who proposed ANOVA-like
-testing procedures for testing the equality of mean functions. Recent research
-also focused on detecting dierences in the covariance functions of independent
-35 samples of curves: see the factor-based test proposed by Ferraty et al. (2007),
+### To detect differences in the mean functions of two independent samples of curves: 
 
+Ramsay, J. O., and B. W. Silverman. "Principal components analysis for functional data." Functional data analysis (2005): 147-172.
+
+* pointwise t-test
+
+Jin-Ting Zhang, Xuehua Liang & Shengning Xiao (2010) On the Two-Sample Behrens-Fisher Problem for Functional Data, Journal of Statistical Theory and Practice, 4:4, 571-587, DOI: 10.1080/15598608.2010.10412005
+
+* L2 norm based test, no access
+
+Horváth, Lajos, Piotr Kokoszka, and Ron Reeder. "Estimation of the mean of functional time series and a two‐sample problem." Journal of the Royal Statistical Society: Series B (Statistical Methodology) 75.1 (2013): 103-122.
+
+* test based on the sample means of the curves
+
+Staicu, Ana‐Maria, et al. "Likelihood ratio tests for dependent data with applications to longitudinal and functional data analysis." Scandinavian Journal of Statistics 41.4 (2014): 932-949.
+
+* pseudo likelihood ratio test 
+
+Estévez-Pérez, Graciela, and José A. Vilar. "Functional ANOVA starting from discrete data: an application to air quality data." Environmental and ecological statistics 20.3 (2013): 495-517.
+
+* ANOVA-like test 
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+
+* regularized M-test
+
+Fremdt, Stefan, et al. "Testing the equality of covariance operators in functional samples." Scandinavian Journal of Statistics 40.1 (2013): 138-152.
+
+
+* Chi-squared test 
 
 
 Hall, Peter, and Ingrid Van Keilegom. "Two-sample tests in functional data analysis starting from discrete data." Statistica Sinica (2007): 1511-1531.
