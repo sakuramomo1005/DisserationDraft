@@ -44,3 +44,13 @@ Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis 
 
 * Functional anderson-darling test (FAD)
 * PC scores
+
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
