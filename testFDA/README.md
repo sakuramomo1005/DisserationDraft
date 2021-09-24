@@ -38,3 +38,9 @@ Benko, Michal, Wolfgang Härdle, and Alois Kneip. "Common functional principal c
 
 * The authors first used a functional principal components (FPC) decomposition of the data and then employing a sequential bootstrap test to identify differences in the mean functions, eigenfunctions, and eigenvalues. 
 * However, in the proposed form, this test does not account for multiple comparisons and is diffcult to study under a variety of scenarios due to its computational expense. Furthermore, even if the multiple comparisons are properly accounted for, the test is still limited to detecting first and second order changes in the distribution of the FPC scores.
+
+
+Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis testing for functional data. North Carolina State University. Dept. of Statistics, 2013.
+
+* Functional anderson-darling test (FAD)
+* PC scores
