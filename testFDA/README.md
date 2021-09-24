@@ -47,13 +47,7 @@ Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis 
 
 
 
-[comment]: <> ( ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```)
+[comment]: <> ( ```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@```)
 
 ### Comparing witht the other functional approaches, ATS method 
 
@@ -66,5 +60,5 @@ Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis 
 ```diff
 + more straightforwad and sample
 + can be easily extend with basline covariates
-@@ text in purple (and bold)@@
+@@more straightforwad and sample@@
 ```
