@@ -58,6 +58,13 @@ Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis 
 ### Comparing witht the other functional approaches, ATS method 
 
 ```diff
++ more straightforwad and simple
++ can be easily extend with basline covariates
+```
+
+
+```diff
 + more straightforwad and sample
 + can be easily extend with basline covariates
+@@ text in purple (and bold)@@
 ```
