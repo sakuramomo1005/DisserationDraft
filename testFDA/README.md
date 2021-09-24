@@ -20,4 +20,4 @@ Hall, Peter, and Ingrid Van Keilegom. "Two-sample tests in functional data analy
 Benko, Michal, Wolfgang Härdle, and Alois Kneip. "Common functional principal components." The Annals of Statistics 37.1 (2009): 1-34.
 
 * The authors first used a functional principal components (FPC) decomposition of the data and then employing a sequential bootstrap test to identify differences in the mean functions, eigenfunctions, and eigenvalues. 
-* However, in the proposed form, this test does not account for multiple comparisons and is diffcult to study under a variety of scenarios due to its computational expense. Furthermore, even if the multiple comparisons 50 are properly accounted for, the test is still limited to detecting first and second order changes in the distribution of the FPC scores.
+* However, in the proposed form, this test does not account for multiple comparisons and is diffcult to study under a variety of scenarios due to its computational expense. Furthermore, even if the multiple comparisons are properly accounted for, the test is still limited to detecting first and second order changes in the distribution of the FPC scores.
