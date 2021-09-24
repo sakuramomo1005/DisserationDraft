@@ -22,17 +22,13 @@ Estévez-Pérez, Graciela, and José A. Vilar. "Functional ANOVA starting from d
 
 * ANOVA-like test 
 
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
+[comment]: <> (* regularized M-test)
 
-* regularized M-test
 
 Fremdt, Stefan, et al. "Testing the equality of covariance operators in functional samples." Scandinavian Journal of Statistics 40.1 (2013): 138-152.
 
 
 * Chi-squared test 
-
 
 Hall, Peter, and Ingrid Van Keilegom. "Two-sample tests in functional data analysis starting from discrete data." Statistica Sinica (2007): 1511-1531.
 
