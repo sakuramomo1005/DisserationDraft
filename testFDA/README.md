@@ -46,19 +46,9 @@ Pomann, Gina Maria, Ana-Maria Staicu, and Sujit K. Ghosh. Two sample hypothesis 
 * PC scores
 
 
-
-[comment]: <> ( ```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@```)
-
 ### Comparing witht the other functional approaches, ATS method 
 
 ```diff
 + more straightforwad and simple
 + can be easily extend with basline covariates
-```
-
-
-```diff
-+ more straightforwad and sample
-+ can be easily extend with basline covariates
-@@more straightforwad and sample@@
 ```
